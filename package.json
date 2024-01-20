@@ -26,6 +26,7 @@
     "type": "git",
     "url": "https://github.com/der-Lehmann/number-flip-animation.git"
   },
+  "type": "module",
   "devDependencies": {
     "prettier": "^2.8.8",
     "tslint": "^6.1.3",
